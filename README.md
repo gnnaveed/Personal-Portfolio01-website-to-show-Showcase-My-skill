@@ -6,7 +6,7 @@ I am a **Computer Science & Engineering graduate** passionate about building sca
 ---
 
 ## Key Highlights
-🔗🔗gnnaveed.netlify.app
+- Email:gnnaveed.netlify.app
 - Personal portfolio website showcasing projects and skills  
 - Projects include Netflix login page clone, Movie Explorer, OTP generator  
 - Tech stack: Java, JavaScript, React.js, Tailwind CSS, HTML, CSS, MySQL  
