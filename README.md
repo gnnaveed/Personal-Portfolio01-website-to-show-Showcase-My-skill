@@ -6,7 +6,7 @@ I am a **Computer Science & Engineering graduate** passionate about building sca
 ---
 
 ## Key Highlights
-- Live Site: [https://gnnaveed.netlify.app](https://gnnaveed.netlify.app)
+- Live Site: [[https://gnnaveed.netlify.app](https://gnnaveed.netlify.app)](https://gnnaveed.netlify.app/)
 
 - Personal portfolio website showcasing projects and skills  
 - Projects include Netflix login page clone, Movie Explorer, OTP generator  
